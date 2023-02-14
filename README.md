@@ -24,3 +24,4 @@
   ![Snake animation](https://github.com/arthur-il-de-souza/arthur-il-de-souza/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+ 
