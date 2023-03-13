@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Arthur Inácio 😁
+##Olá, me chamo Arthur Inácio. Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/arthur-il-de-souza">
